@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honey.WebApp", "Honey.WebApp\Honey.WebApp.csproj", "{45AFC88D-D39E-42BC-A5F9-2FE9CAD19BBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honey.Data", "Honey.Data\Honey.Data.csproj", "{55E6D0D5-F46F-48AC-B03A-94B7DB653B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honey.Application", "Honey.Application\Honey.Application.csproj", "{A0B5A904-05F3-45AE-823C-FCC3046B07E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{45AFC88D-D39E-42BC-A5F9-2FE9CAD19BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45AFC88D-D39E-42BC-A5F9-2FE9CAD19BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45AFC88D-D39E-42BC-A5F9-2FE9CAD19BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E6D0D5-F46F-48AC-B03A-94B7DB653B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E6D0D5-F46F-48AC-B03A-94B7DB653B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E6D0D5-F46F-48AC-B03A-94B7DB653B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E6D0D5-F46F-48AC-B03A-94B7DB653B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B5A904-05F3-45AE-823C-FCC3046B07E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B5A904-05F3-45AE-823C-FCC3046B07E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B5A904-05F3-45AE-823C-FCC3046B07E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B5A904-05F3-45AE-823C-FCC3046B07E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
